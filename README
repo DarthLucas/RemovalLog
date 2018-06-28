@@ -1,0 +1,13 @@
++------------------------------------------------------------------------------------+
++This bot logs and timestamps any and all messages deleted from your Discord server. +
++The logs will be shown in the running terminal and in a whatever channel you wish.  +
++------------------------------------------------------------------------------------+
+
+Create a bot at https://discordapp.com/developers
+	REQUIRES ADMIN PRIVILAGES
+
+Create a user and copy the super secret token into the last line of the .js.
+
+Add the channel you want to house logs into the .js.
+
+Install discord.js
