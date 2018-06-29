@@ -8,6 +8,10 @@ Create a bot at https://discordapp.com/developers
 
 Create a user and copy the super secret token into the last line of the .js.
 
+Clone repo
+
+Run `npm install`
+
 Add the channel you want to house logs into the .js.
 
 Install discord.js
